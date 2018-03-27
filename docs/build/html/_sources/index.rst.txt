@@ -1,5 +1,5 @@
-Learn Python with Arcade Academy
-================================
+Learn Python3 with Arcade Academy
+====================================
 
 Learn how to create 2D video games!
 As part of this course we'll also
