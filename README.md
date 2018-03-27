@@ -1,1 +1,0 @@
-# algoritmen_1
