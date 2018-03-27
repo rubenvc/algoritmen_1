@@ -1,4 +1,4 @@
-Learn Python3 with Arcade Academy
+Learn Python3 with SLHD
 ====================================
 
 Learn how to create 2D video games!
