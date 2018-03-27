@@ -10,12 +10,7 @@ Welcome to Algoritmen 1's documentation!
    :maxdepth: 3
    :caption: Contents:
 
-   source/intro
-   source/nec_know
-   source/domains_ip_servers
-   source/ndg
-   source/Arch
-   source/RPi
+   chapters/index
 
 Indices and tables
 ==================
