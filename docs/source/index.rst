@@ -8,5 +8,6 @@ college course. But, without all the boredom of those "other" college courses.
 
 .. toctree::
    :maxdepth: 2
+   :name: algoritmen-1
 
    chapters/index
