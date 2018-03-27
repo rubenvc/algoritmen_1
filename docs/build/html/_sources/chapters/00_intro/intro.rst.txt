@@ -1,10 +1,6 @@
 A ReStructuredText Primer
 =========================
 
-:Author: Richard Jones
-:Version: $Revision: 5801 $
-:Copyright: This document has been placed in the public domain.
-
 .. contents::
 
 
@@ -21,6 +17,14 @@ __
 .. Note:: This document is an informal introduction to
    reStructuredText.  The `What Next?`_ section below has links to
    further resources, including a formal reference.
+
+
+Voorbeeld
+---------
+
+..raw:: html
+
+	<iframe height="400px" width="100%" src="https://repl.it/@rvc/WorrisomeGaseousMonitors?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
 
 Structure
